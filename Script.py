@@ -82,7 +82,7 @@ t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍:
 
 <b>Share and Subscribe</b>
 
-Credits ›› <a href=https://t.me/ak_akshay><b>AKSHAY</b></a>"""
+Credits ›› <a href=https://t.me/ak_akshayss><b>AKSHAY</b></a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and ᗩᒍᗩ᙭  will respond whenever a keyword is found the message
